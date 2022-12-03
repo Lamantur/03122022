@@ -1,0 +1,15 @@
+C:\Users\79111\Documents\введение\HW4\star\bin\Debug\net6.0\star.exe
+C:\Users\79111\Documents\введение\HW4\star\bin\Debug\net6.0\star.deps.json
+C:\Users\79111\Documents\введение\HW4\star\bin\Debug\net6.0\star.runtimeconfig.json
+C:\Users\79111\Documents\введение\HW4\star\bin\Debug\net6.0\star.dll
+C:\Users\79111\Documents\введение\HW4\star\bin\Debug\net6.0\star.pdb
+C:\Users\79111\Documents\введение\HW4\star\obj\Debug\net6.0\star.csproj.AssemblyReference.cache
+C:\Users\79111\Documents\введение\HW4\star\obj\Debug\net6.0\star.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79111\Documents\введение\HW4\star\obj\Debug\net6.0\star.AssemblyInfoInputs.cache
+C:\Users\79111\Documents\введение\HW4\star\obj\Debug\net6.0\star.AssemblyInfo.cs
+C:\Users\79111\Documents\введение\HW4\star\obj\Debug\net6.0\star.csproj.CoreCompileInputs.cache
+C:\Users\79111\Documents\введение\HW4\star\obj\Debug\net6.0\star.dll
+C:\Users\79111\Documents\введение\HW4\star\obj\Debug\net6.0\refint\star.dll
+C:\Users\79111\Documents\введение\HW4\star\obj\Debug\net6.0\star.pdb
+C:\Users\79111\Documents\введение\HW4\star\obj\Debug\net6.0\star.genruntimeconfig.cache
+C:\Users\79111\Documents\введение\HW4\star\obj\Debug\net6.0\ref\star.dll
